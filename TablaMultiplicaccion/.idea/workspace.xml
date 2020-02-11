@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="96bdfb52-455d-4121-969c-7b683d4287f8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Ramiro\IdeaProjects\TablaDeMultiplicar" />
+        <option value="C:\Users\Ramiro\IdeaProjects\TablaDeMultiplicar\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1WK1T5xsPjqv9QbuhOb2DHgXPFd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ChangesTree.GroupingKeys" value="module" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="TablaDeMultiplicar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96bdfb52-455d-4121-969c-7b683d4287f8" name="Default Changelist" comment="" />
+      <created>1578883476411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578883476411</updated>
+    </task>
+    <task id="LOCAL-00001" summary="VersionUno">
+      <created>1579881656873</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579881656873</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="VersionUno" />
+    <option name="LAST_COMMIT_MESSAGE" value="VersionUno" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="126" y="0" key="#Notifications" timestamp="1579881449921">
+      <screen x="0" y="0" width="1067" height="560" />
+    </state>
+    <state x="126" y="0" key="#Notifications/0.0.1067.560@0.0.1067.560" timestamp="1579881449921" />
+    <state x="127" y="0" key="CommitChangelistDialog2" timestamp="1579881651462">
+      <screen x="0" y="0" width="1067" height="560" />
+    </state>
+    <state x="127" y="0" key="CommitChangelistDialog2/0.0.1067.560@0.0.1067.560" timestamp="1579881651462" />
+    <state x="390" y="173" key="Github.ShareDialog" timestamp="1579880424279">
+      <screen x="0" y="0" width="1067" height="560" />
+    </state>
+    <state x="390" y="173" key="Github.ShareDialog/0.0.1067.560@0.0.1067.560" timestamp="1579880424279" />
+    <state width="1023" height="124" key="GridCell.Tab.0.bottom" timestamp="1579666645061">
+      <screen x="0" y="0" width="1067" height="560" />
+    </state>
+    <state width="1023" height="124" key="GridCell.Tab.0.bottom/0.0.1067.560@0.0.1067.560" timestamp="1579666645061" />
+    <state width="1023" height="124" key="GridCell.Tab.0.center" timestamp="1579666645061">
+      <screen x="0" y="0" width="1067" height="560" />
+    </state>
+    <state width="1023" height="124" key="GridCell.Tab.0.center/0.0.1067.560@0.0.1067.560" timestamp="1579666645061" />
+    <state width="1023" height="124" key="GridCell.Tab.0.left" timestamp="1579666645061">
+      <screen x="0" y="0" width="1067" height="560" />
+    </state>
+    <state width="1023" height="124" key="GridCell.Tab.0.left/0.0.1067.560@0.0.1067.560" timestamp="1579666645061" />
+    <state width="1023" height="124" key="GridCell.Tab.0.right" timestamp="1579666645061">
+      <screen x="0" y="0" width="1067" height="560" />
+    </state>
+    <state width="1023" height="124" key="GridCell.Tab.0.right/0.0.1067.560@0.0.1067.560" timestamp="1579666645061" />
+    <state x="126" y="13" key="Vcs.Push.Dialog.v2" timestamp="1579881593030">
+      <screen x="0" y="0" width="1067" height="560" />
+    </state>
+    <state x="126" y="13" key="Vcs.Push.Dialog.v2/0.0.1067.560@0.0.1067.560" timestamp="1579881593030" />
+    <state x="230" y="104" key="com.intellij.ide.util.TipDialog" timestamp="1579879549149">
+      <screen x="0" y="0" width="1067" height="560" />
+    </state>
+    <state x="230" y="104" key="com.intellij.ide.util.TipDialog/0.0.1067.560@0.0.1067.560" timestamp="1579879549149" />
+    <state x="307" y="71" key="git4idea.merge.GitPullDialog" timestamp="1579881496435">
+      <screen x="0" y="0" width="1067" height="560" />
+    </state>
+    <state x="307" y="71" key="git4idea.merge.GitPullDialog/0.0.1067.560@0.0.1067.560" timestamp="1579881496435" />
+    <state x="196" y="-1" width="672" height="678" key="search.everywhere.popup" timestamp="1578883841569">
+      <screen x="0" y="0" width="1067" height="560" />
+    </state>
+    <state x="196" y="-1" width="672" height="678" key="search.everywhere.popup/0.0.1067.560@0.0.1067.560" timestamp="1578883841569" />
+  </component>
+</project>
